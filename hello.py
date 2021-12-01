@@ -1,3 +1,2 @@
-print("Hello World")
-git  init
-git status
+print(Hello World")
+
